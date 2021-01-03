@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**th1ago/th1ago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 I'm Thiago Murakami
 
 - 🔭 I’m currently working on JS project
 - 🌱 I’m currently learning Python
@@ -13,4 +8,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: th1ago
 - 😄 Pronouns: Happy
 - ⚡ Fun fact: ^^
--->
