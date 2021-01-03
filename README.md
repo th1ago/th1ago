@@ -6,5 +6,3 @@
 - 🤔 I’m looking for help with idea for project
 - 💬 Ask me about let's learn together
 - 📫 How to reach me: th1ago
-- 😄 Pronouns: Happy
-- ⚡ Fun fact: ^^
