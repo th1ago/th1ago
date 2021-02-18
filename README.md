@@ -13,6 +13,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-sushi.murakami@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sushbi.murakami@gmail.com)](mailto:tgmarinho@gmail.com)
 
-[Entre em contato!](https://www.linkedin.com/in/thiago-murakami-39208a23/)
+
+[👋🏽 Entre em contato!](https://www.linkedin.com/in/thiago-murakami-39208a23/)
