@@ -9,3 +9,6 @@
 <h4 align="center"> 
 	🚧  Projects 🚀 building...  🚧
 </h4>
+
+
+[Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
