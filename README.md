@@ -6,9 +6,6 @@
 - 🤔 I'm looking for a job with a UI / Frontend
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/) 
 
-<div>
-  <a href="https://github.com/th1ago">
-<div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -19,15 +16,8 @@
   
   ##
   
-  <div>
+ [👋🏽 Entre em contato!]
+ <div>
   <a href = "mailto: sushi.murakami@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/th1ago_mura/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
-[👋🏽 Entre em contato!]
-
-
-<h4 align="center"> 
-	🚧  Projects 🚀 building...  🚧
-</h4>
