@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on JS project
 - 🌱 I’m currently learning JS concept
 - 👯 I’m looking to collaborate on Web development
-- 🤔 I'm looking for a job with a UX/UI
+- 🤔 I'm looking for a job with a UX/UI Designer e Front-end
 - 👋 About me (https://portfolio-kappa-snowy.vercel.app/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/)
 
