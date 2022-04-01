@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Thiago Murakami
 
 - 🔭 I’m currently working on Rocketseat project
-- 🌱 I’m currently learning UX/UI | ReactJS concept
+- 🌱 I’m currently learning UX/UI | Data Analytics | ReactJS concept 
 - 🤔 I'm looking for a job - UX/UI Designer | Front-end
 - 👋 About me (https://portfolio-kappa-snowy.vercel.app/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/)
