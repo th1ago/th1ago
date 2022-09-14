@@ -10,8 +10,6 @@
   <a href="https://github.com/th1ago">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1ago&layout=compact&langs_count=16&theme=dracula"/>
 <div>
-
-##
   
  [👋🏽 Entre em contato!]
  <div>
