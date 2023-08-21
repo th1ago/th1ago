@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Thiago Murakami
 
-- 🔭 I’m currently working on ORACLE project
+- 🔭 I’m currently working on AWS project
 - 🌱 I’m currently learning UX/UI | Data Analytics
 - 🤔 I'm looking for a job - Data Analytics | Front-end
 - 👋 About me (https://portfolio-kappa-snowy.vercel.app/)
