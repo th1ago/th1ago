@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on AWS project
 - 🌱 I’m currently learning UX/UI | Data Analytics
-- 🤔 I'm looking for a job - Data Analytics | Front-end
+- 🤔 I'm looking for a job - Data Analytics
 - 👋 About me (https://portfolio-kappa-snowy.vercel.app/)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/)
 
