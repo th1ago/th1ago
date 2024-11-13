@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DataViz project
 - 🌱 I’m currently learning Data Analytics
 - 🤔 I'm looking for a job - Data Analytics
-- 👋 About me (https://portfolio-kappa-snowy.vercel.app/)
+- 👋 About me - So live a life you will remember
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/)
 
 ## [👋🏽 Entre em contato!]
