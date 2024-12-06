@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on DataViz project
 - 🌱 I’m currently learning Data Analytics
-- 🤔 I'm looking for a job - Data Analytics
+- 🤔 I'm looking for a job - Data Analytics | Cloud
 - 👋 About me - So live a life you will remember
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-murakami-39208a23/)](https://www.linkedin.com/in/thiago-murakami-39208a23/)
 
